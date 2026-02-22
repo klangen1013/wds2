@@ -1,0 +1,20 @@
+body {
+    background-color: #cec8bf;
+    border: 5px solid #febf52;
+    min-height: 100vh;
+}
+
+div {
+    margin: 10px;
+
+}
+h1 {
+  color: #345c4f;
+}
+h2 {
+    color: #e67541;
+}
+
+h3 {
+   color: #eb5591; 
+}
